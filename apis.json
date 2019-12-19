@@ -1,0 +1,79 @@
+{
+    "name": "Appcelerator",
+    "description": "Axway Appcelerator solutions help you deliver native cross-platform apps, mobilize any data source, and drive success with real-time analytics",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/59-appcelerator.jpg",
+    "tags": [
+        "api lifeycle",
+        "api service provider",
+        "baas",
+        "have api",
+        "networks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/appcelerator\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Appcelerator",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/59-appcelerator.jpg",
+            "humanURL": "http:\/\/www.appcelerator.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/appcelerator-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/appcelerator-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.appcelerator.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.appcelerator.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/appcelerator"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/appcelerator"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@appcelerator.com"
+        },
+        {
+            "type": "Email",
+            "url": "legal@appcelerator.com"
+        },
+        {
+            "type": "Email",
+            "url": "Infosec@appcelerator.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/appcelerator"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/appcelerator"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.appcelerator.com\/"
+        }
+    ]
+}
